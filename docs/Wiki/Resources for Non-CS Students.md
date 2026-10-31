@@ -1,5 +1,5 @@
 ---
-icon: lucide/monitor-activity
+icon: lucide/bookmark
 created: 2026-10-27
 last: 2026-10-31
 ---
