@@ -18,3 +18,7 @@ software:
 created: 2026-10-22
 last: 2026-10-23
 ---
+
+## Materials
+
+- [test](https://moodle.nottingham.ac.uk/pluginfile.php/13305555/mod_resource/content/1/comp4128-autumn26-w05-lecture9-normalization-preview.pdf)
