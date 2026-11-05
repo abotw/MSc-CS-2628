@@ -7,7 +7,7 @@ aliases:
 code: COMP
 url:
 universities:
-  - "[University of Nottingham Ningbo China](University%20of%20Nottingham%20Ningbo%20China.md)"
+  - "[[References/宁波诺丁汉大学]]"
 school: School of Computer Science
 academic year: 2027
 taught semester: Spring

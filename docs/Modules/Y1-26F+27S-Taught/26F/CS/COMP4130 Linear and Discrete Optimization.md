@@ -1,26 +1,28 @@
 ---
 categories:
   - "[Courses](../../../../../../Categories/Courses.md)"
-  - "[Software](../../../../../../Categories/Software.md)"
 aliases:
-  - LDO
+  - "LDO"
+  - "COMP4130 module page"
 code: COMP4130
-url:
 universities:
-  - "[University of Nottingham Ningbo China](University%20of%20Nottingham%20Ningbo%20China.md)"
+  - "[[References/宁波诺丁汉大学]]"
 school: School of Computer Science
 academic year: 2026
 taught semester: Fall
 credits: 20
 level: "4"
 staff:
-  - "[Chin Poo Lee](Chin%20Poo%20Lee.md)"
+  - "[[Chin Poo Lee]]"
 textbooks:
-  - "[Introduction to Operations Research](Introduction%20to%20Operations%20Research.md)"
+  - "[[Introduction to Operations Research]]"
 software:
-  - "[lp_solve](lp_solve.md)"
-  - "[Microsoft Excel](Microsoft%20Excel.md)"
+  - "[[lp_solve]]"
+  - "[[Microsoft Excel]]"
 created: 2026-10-21
+fields:
+  - "[[Operations Research]]"
+last: 2026-11-02
 ---
 
 ## Materials
@@ -35,3 +37,12 @@ created: 2026-10-21
 | 04       | Post-optimality Analysis                                               | [L04-2026-10-26](https://moodle.nottingham.ac.uk/pluginfile.php/12991957/mod_resource/content/6/COMP4130%20Lecture%204.pdf)<br>[C04-2026-10-30](https://moodle.nottingham.ac.uk/pluginfile.php/12991966/mod_resource/content/9/ldo_computing4_feedback.pdf)                 |
 | 05       | Network Flow Optimization                                              | [L05-2026-11-02](https://moodle.nottingham.ac.uk/pluginfile.php/12991968/mod_resource/content/8/COMP4130%20Lecture%205.pdf)                                                                                                                                                 |
 
+## Local knowledge map
+
+- [[COMP4130 linear and discrete optimisation|Local PDFs and concept clusters]]
+- [[Operations Research|Field map]]
+- [[network flow optimisation]]
+
+## Workshop knowledge
+
+[[UNNC COMP4130 2026 Fall#Workshop materials|Workshop source index]] connects the updated local materials to checked models and concept cards.

@@ -1,7 +1,9 @@
 ---
 icon: lucide/letters
 created: 2026-10-31
-last: 2026-10-31
+fields: 
+  - "[[English Learning]]"
+last: 2026-11-02
 ---
 ## Speaking
 
@@ -23,3 +25,7 @@ last: 2026-10-31
 ## Misc.
 
 - <https://labs.google/lll/en>
+
+## Vault knowledge map
+
+[[English Learning]] connects these saved resources to practice cards. [[English practice resource directory]] consolidates this list with the former IELTS links; all original URLs above are retained.
